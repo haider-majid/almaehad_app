@@ -1,0 +1,8 @@
+{
+  "sub": "1234567890",
+  "name": "Test User",
+  "email": "test@gmail.com",
+  "role": "Tester",
+  "iat": 1715232000,
+  "exp": 1715235600
+}
